@@ -30,4 +30,5 @@ Lagged Nana interest is strongly positively associated with Vivienne Westwood in
 - Residual autocorrelation may remain (HAC used; robustness checks recommended)
 
 ## Files
-- `nana-and-vivienne-westwood.ipynb`: full analysis notebook
+- `nana-and-vivienne-westwood.ipynb` — Main analysis notebook  
+- `time_series_US_*.csv` — Google Trends raw data
