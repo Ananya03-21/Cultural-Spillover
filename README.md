@@ -14,7 +14,7 @@ Do increases in *Nana* search interest lead (with a lag) to increases in *Vivien
 
 ## Approach
 1. Exploratory time-series plots  
-2. Lead–lag analysis (Nana_t-1 vs VW_t)  
+2. Lead–lag analysis ($$Nana_{t-1}$$ vs $$VW_t$$)  
 3. Regression with controls and trend, using HAC robust standard errors:
 
 $$
